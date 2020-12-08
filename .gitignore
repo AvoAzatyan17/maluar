@@ -12,3 +12,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+composer.json
+webpack.mix.js
+webpack.config.js
+package.json
